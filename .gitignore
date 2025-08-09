@@ -1,0 +1,27 @@
+# JavaFX SDK folder (if inside project)
+javafx-sdk*/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Build folders
+bin/
+build/
+out/
+target/
+
+# Temporary files
+*.tmp
+*.swp

@@ -1,0 +1,30 @@
+# Ignore JavaFX SDK (since it's too big and can be re-downloaded)
+javafx-sdk*/
+
+# Compiled Java class files
+*.class
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE project files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Build directories
+bin/
+build/
+out/
+target/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
