@@ -3,9 +3,6 @@
 
 This is a clone of the strategy video game, [Plants vs. Zombies](https://en.wikipedia.org/wiki/Plants_vs._Zombies), originally developed by PopCap Games.
 
-
-Made as a part of project in Advanced Programming course at IIIT-Delhi.
-
 Uses Java and JavaFx.
 
 ## Features
